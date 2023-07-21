@@ -98,7 +98,7 @@ button {
   display: flex;
   flex-direction: column-reverse;
   gap: 2rem;
-  padding: 2rem 1rem;
+  padding: 0 1rem 2rem;
 }
 
 .hero h1 {
@@ -152,7 +152,7 @@ form input {
 }
 
 .escrow {
-  padding: 0 2rem 1rem;
+  padding: 0 1rem 2rem;
 }
 
 .escrow div {
